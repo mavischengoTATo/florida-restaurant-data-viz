@@ -1,42 +1,5 @@
 # Data Visualization and Analysis of Restaurant Distribution in Florida using Yelp Dataset
 
-This is the team repository you will be use for your 503 project. All your team's work will happen here. 
-
-Links of interest:
-* The project requirements are in the [`instructions.md`](instructions.md) document
-* The repository structure is described in the [reposity structure section](#repository-structure) below
-* You **will** make changes to this `README.md` file within your repository. These changes are descripned in the [instructions section](#instructions-for-modifying-this-readmemd-file) below.
-
-## Repository structure
-
-You will work within an **organized** repository and apply coding and development best practices. The repository has the following structure:
-
-```.
-├── README.md
-├── code/
-├── data/
-├── img/
-└── website/
-```
-
-* The `code/` directory is where you will develop all your code.  You may add additional sub-directories as needed to modularize your development.
-
-* The `data/` directory should contain your data files and should have multiple sub-directories (i.e. raw, processed, analytical, etc.) as needed.
-
-* The `img/` directory should contain any external images that you need for your site. However, all your viz's should be generated programmatically in your source code.
-
-* The `website/` directory where the website will be deployed. It must be self-contained and accessible via an index.html within this sub-directory.  Any website asset (images, html, css, JavaScript source code) must be added to this directory. 
-
-There is an empty placeholder file in each subdirectory called `placeholder-to-be-deleted.txt`. This file may be deleted **after** you save other files in those subdirectories. This file is needed to be able to keep the empty directory in the repo.
-
-Other files we expect to see at the top level of this repo may include:
-- `.gitignore`
-
-
-## Elements that impact the distributions of restaurants in Florida on different dimensions
-
-### Team section: Group 33: Zijing Cheng (zc233) & Nianqing Chen (nc807) & Zixuan Li (zl483)
-
 ### Summary section: 
 
 The internet cyber-star economy has become a significant factor in the restaurant industry, and this research project aims to investigate the correlation between the two in Florida. The study utilizes the Yelp dataset to gain insights into people's preferences, dietary habits, and factors that contribute to positive dining experiences. By analyzing this information, the research aims to provide valuable insights into the link between restaurant operations and customer feedback, which can inform strategies for improving restaurant performance and customer satisfaction.
