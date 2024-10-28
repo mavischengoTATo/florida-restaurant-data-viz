@@ -1,4 +1,4 @@
-# ANLY 503 Project Repo
+# Data Visualization and Analysis of Restaurant Distribution in Florida using Yelp Dataset
 
 This is the team repository you will be use for your 503 project. All your team's work will happen here. 
 
