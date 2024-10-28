@@ -1,0 +1,136 @@
+"","State","City","n","rank"
+"1","AB","Beaumont",4,6
+"2","AB","EdMonton",2,7.5
+"3","AB","Edmonton",1589,1
+"4","AB","Saint Albert",11,5
+"5","AB","Sherwood Park",105,2
+"6","AB","St Albert",36,3
+"7","AB","St. Albert",28,4
+"8","AB","West Edmonton",2,7.5
+"9","AZ","Catalina",8,7
+"10","AZ","Green Valley",23,4
+"11","AZ","Marana",39,3
+"12","AZ","Mount Lemmon",5,8.5
+"13","AZ","Oro Valley",72,2
+"14","AZ","Sahuarita",17,5
+"15","AZ","TUCSON",3,10
+"16","AZ","Tucson",2315,1
+"17","AZ","Tuscon",5,8.5
+"18","AZ","Vail",9,6
+"19","CA","Carpinteria",76,3
+"20","CA","Goleta",207,2
+"21","CA","Isla Vista",46,4
+"22","CA","Montecito",26,5
+"23","CA","Santa  Barbara",1,7.5
+"24","CA","Santa Barbara",727,1
+"25","CA","Summerland",8,6
+"26","CA","Truckee",1,7.5
+"27","DE","Christiana",6,6
+"28","DE","Claymont",18,5
+"29","DE","Greenville",5,7
+"30","DE","Hockessin",33,4
+"31","DE","New Castle",72,3
+"32","DE","Newark",132,2
+"33","DE","Newport",4,8
+"34","DE","Pike Creek",3,9.5
+"35","DE","Talleyville",3,9.5
+"36","DE","Wilmington",489,1
+"37","FL","Brandon",311,4
+"38","FL","Clearwater",629,3
+"39","FL","Dunedin",177,8.5
+"40","FL","Largo",280,5
+"41","FL","Lutz",160,10
+"42","FL","New Port Richey",177,8.5
+"43","FL","Palm Harbor",196,6
+"44","FL","Riverview",178,7
+"45","FL","Saint Petersburg",820,2
+"46","FL","Tampa",2981,1
+"47","ID","BOISE",1,7.5
+"48","ID","Boise",720,1
+"49","ID","Boise City",6,5
+"50","ID","Eagle",81,3
+"51","ID","Garden City",29,4
+"52","ID","Kuna",2,6
+"53","ID","Meridian",284,2
+"54","ID","Nampa",1,7.5
+"55","IL","Alton",64,4
+"56","IL","Belleville",119,1
+"57","IL","Collinsville",56,5
+"58","IL","Columbia",23,8.5
+"59","IL","Edwardsville",102,2
+"60","IL","Fairview Heights",71,3
+"61","IL","Granite City",36,7
+"62","IL","O Fallon",23,8.5
+"63","IL","O'Fallon",53,6
+"64","IL","Swansea",19,10
+"65","IN","Avon",92,5
+"66","IN","Brownsburg",66,8
+"67","IN","Carmel",263,2
+"68","IN","Fishers",177,3
+"69","IN","Greenwood",162,4
+"70","IN","Indianapolis",2439,1
+"71","IN","Mooresville",27,10
+"72","IN","Plainfield",90,6
+"73","IN","Speedway",28,9
+"74","IN","Zionsville",67,7
+"75","LA","Chalmette",49,8
+"76","LA","Gretna",111,4
+"77","LA","Harahan",55,7
+"78","LA","Harvey",91,5
+"79","LA","Jefferson",31,9
+"80","LA","Kenner",176,3
+"81","LA","Marrero",61,6
+"82","LA","Metairie",490,2
+"83","LA","New Orleans",2222,1
+"84","LA","Terrytown",30,10
+"85","MO","Arnold",74,10
+"86","MO","Clayton",102,6
+"87","MO","Fenton",75,9
+"88","MO","Florissant",135,4
+"89","MO","Kirkwood",80,7
+"90","MO","Maryland Heights",79,8
+"91","MO","Saint Charles",108,5
+"92","MO","Saint Louis",1658,1
+"93","MO","St Louis",147,3
+"94","MO","St. Louis",512,2
+"95","MT","Kalispell",1,1
+"96","NJ","Burlington",65,7.5
+"97","NJ","Cherry Hill",271,1
+"98","NJ","Collingswood",65,7.5
+"99","NJ","Glassboro",62,10
+"100","NJ","Marlton",112,3
+"101","NJ","Moorestown",63,9
+"102","NJ","Mount Laurel",95,4
+"103","NJ","Sewell",73,5
+"104","NJ","Trenton",150,2
+"105","NJ","Voorhees",71,6
+"106","NV","Cold Springs",1,8.5
+"107","NV","RENO",1,8.5
+"108","NV","Reno",1301,1
+"109","NV","Spanish Springs",9,4.5
+"110","NV","Sparks",331,2
+"111","NV","Stead",1,8.5
+"112","NV","Sun Valley",9,4.5
+"113","NV","Verdi",10,3
+"114","NV","Virginia City",7,6
+"115","NV","reno",1,8.5
+"116","PA","Ardmore",128,5.5
+"117","PA","Bensalem",138,4
+"118","PA","Doylestown",128,5.5
+"119","PA","King of Prussia",143,3
+"120","PA","Media",118,10
+"121","PA","Norristown",123,8
+"122","PA","Philadelphia",5186,1
+"123","PA","Phoenixville",126,7
+"124","PA","Wayne",120,9
+"125","PA","West Chester",233,2
+"126","TN","Antioch",87,8
+"127","TN","Brentwood",153,4
+"128","TN","Franklin",397,2
+"129","TN","Goodlettsville",52,10
+"130","TN","Hendersonville",156,3
+"131","TN","Hermitage",89,7
+"132","TN","Madison",73,9
+"133","TN","Mount Juliet",94,6
+"134","TN","Nashville",2151,1
+"135","TN","Smyrna",123,5
